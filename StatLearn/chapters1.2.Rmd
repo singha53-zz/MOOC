@@ -1,0 +1,27 @@
+---
+title: "Ch1-Ch2 Overview of Statistical Learning"
+author: "Amrit Singh"
+date: "February 9, 2017"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Chapter 1: Introduction
+  * opening remarks
+  
+Notes:
+Supervised Learning
+ - Y: outcome measurement
+ - X: predictor measurements
+ - training data: (x1, y1), ..., (xN, yN)
+ 
+ 
+# Chapter 2: Statistical Leanring
+  * opening remarks
+  
