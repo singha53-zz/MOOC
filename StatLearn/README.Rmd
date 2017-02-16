@@ -1,6 +1,6 @@
 ---
 title: "Statistical Learning"
-author: "Amrit Singh"
+author: "PROOF Centre"
 date: "February 9, 2017"
 output:
   github_document:

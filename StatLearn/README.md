@@ -1,6 +1,6 @@
 Statistical Learning
 ================
-Amrit Singh
+PROOF Centre
 February 9, 2017
 
 -   [Welcome to HumanitiesSciences's StatLearning!](#welcome-to-humanitiessciencess-statlearning)
