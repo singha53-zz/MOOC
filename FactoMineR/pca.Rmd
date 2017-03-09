@@ -1,0 +1,17 @@
+---
+title: "pca"
+author: "Amrit Singh"
+date: "March 9, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Principal Component Analysis
+
+```{r}
+
+```
+
